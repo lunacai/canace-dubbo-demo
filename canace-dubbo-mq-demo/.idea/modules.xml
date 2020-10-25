@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/canace-dubbo-mq-demo.iml" filepath="$PROJECT_DIR$/canace-dubbo-mq-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/canace-test-demo/canace-test-demo.iml" filepath="$PROJECT_DIR$/canace-test-demo/canace-test-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-provider-demo/dubbo-provider-demo.iml" filepath="$PROJECT_DIR$/dubbo-provider-demo/dubbo-provider-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-demo/kafka-demo.iml" filepath="$PROJECT_DIR$/kafka-demo/kafka-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-demo/mybatis-demo.iml" filepath="$PROJECT_DIR$/mybatis-demo/mybatis-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-demo/rocketmq-demo.iml" filepath="$PROJECT_DIR$/rocketmq-demo/rocketmq-demo.iml" />
+    </modules>
+  </component>
+</project>
